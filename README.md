@@ -30,4 +30,4 @@ This was great for practicing CSS grid. I'm more familiar with flex so this chal
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/clipboard-landing-page---using-responsive-html-css-and-a-little-js-5aeXQ4pTQU). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my [solution]([https://www.frontendmentor.io/solutions/clipboard-landing-page---using-responsive-html-css-and-a-little-js-5aeXQ4pTQU](https://www.frontendmentor.io/solutions/testimonials-grid-section---css-grid-5PdqH7EKt7)). It definitely helps to find new ways to code and find easier solutions!
