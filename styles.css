@@ -30,7 +30,7 @@ body {
   justify-content: center;
   font-family: Barlow Semi Condensed, sans-serif;
   height: 100vh;
-  background-color: var(--White);
+  background-color: var(--Grey100);
 }
 
 article {
